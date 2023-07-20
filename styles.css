@@ -1,0 +1,17 @@
+*{margin: 0;}
+
+div{display: flex;
+justify-content: center;
+justify-items: center;
+height: 250px;
+margin: 15px;
+margin-bottom: 10px;
+gap:20px}
+
+body{font-family: 'Manrope', sans-serif;
+    font-size: 1em;
+    background-color: white;}
+
+h2{display: flex;
+justify-content: center;
+margin-bottom: 45px;}
