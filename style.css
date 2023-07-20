@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+footer{
+    height: 100px;
+    width: 100vw;
+    background-color:aliceblue;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    justify-content: space-between;
+    box-sizing: border-box;
+    padding: 50px;
+    position: absolute;
+    bottom: 0;
+}
+.reseaux{
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    
+}
+img{
+    background-color: aliceblue;
+}
